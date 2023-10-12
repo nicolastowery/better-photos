@@ -2,7 +2,7 @@
 View live demo [here!](https://nicolastowery.github.io/better-photos/)
 ## Short Description
 
-This project was coded by Nicolas Towery as part of [Bytegrad's CSS Udemy Course.](https://www.udemy.com/course/professional-css/) It served as an introduction to CSS Grid, SCSS, and build tools.
+This project was coded by Nicolas Towery as part of [Bytegrad's CSS Udemy Course.](https://www.udemy.com/course/professional-css/) The project served as a method to sharpen skills related to CSS Grid, SCSS, and build tools.
 
 ## Technologies Used
 
